@@ -1,2 +1,3 @@
 # GitTest
-T‰ss‰ on ensimm‰inen muutos
+T√§ss√§ on ensimm√§inen muutos
+T√§ss√§ toinen
